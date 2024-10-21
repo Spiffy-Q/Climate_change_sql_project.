@@ -14,6 +14,7 @@ SQL - Data cleaning and analysis
 The summary of analysis are as follows:
 - Developed nations tend to have more stable or declining emissions after their peaks in the 2000s, while developing and emerging economies, show a clear upward trend in emissions.
 - The average temperature has generally increased over the last decade, with some notable fluctuations, particularly peaking in 2018, but a more stable trend in recent years.
+- Northeast and South regions face the highest frequency of extreme weather event
 
 ### How to Run the Queries
 1. Download the dataset from [Kaggle](https://kaggl.com).
