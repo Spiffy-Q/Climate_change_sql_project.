@@ -17,7 +17,7 @@ The summary of analysis are as follows:
 - Northeast and South regions face the highest frequency of extreme weather event
 
   ### Recommendation
-  Northeast and South regions with high frequency of extreme weather should focus on climate resilience strategies. Regions like Southeast (1,041) and Maharashtra (1,021) report fewer extreme weather events. While these regions may currently be less affected, this does not imply they're immune to climate change impacts. Trends should be monitored in these areas to ensure they remain prepared for future changes.
+  Northeast and South regions with high frequency of extreme weather should focus on climate resilience strategies. Regions like Southeast and Maharashtra with fewer extreme weather events should be monitored to ensure they remain prepared for future changes.
 
 ### How to Run the Queries
 1. Download the dataset from [Kaggle](https://kaggl.com).
