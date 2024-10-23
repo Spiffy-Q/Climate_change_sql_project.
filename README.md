@@ -3,7 +3,7 @@ An SQL project on climate change and impact on agriculture
 
 ## Objectives
 - Analyze the historical patterns of CO2 emissions across countries and identify contributors.
-- To examine the relationship between temperature increase and CO2 emissions.
+- To examine how temperature has changed over the last decade
 - To determine how soil quality affects agricultural productivity, which is important for food security under climate stress.
 - To explore the agricultural practices in different regions and their long-term sustainability.
 
@@ -15,6 +15,9 @@ The summary of analysis are as follows:
 - Developed nations tend to have more stable or declining emissions after their peaks in the 2000s, while developing and emerging economies, show a clear upward trend in emissions.
 - The average temperature has generally increased over the last decade, with some notable fluctuations, particularly peaking in 2018, but a more stable trend in recent years.
 - Northeast and South regions face the highest frequency of extreme weather event
+
+  ### Recommendation
+  Northeast and South regions with high frequency of extreme weather should focus on climate resilience strategies. Regions like Southeast (1,041) and Maharashtra (1,021) report fewer extreme weather events. While these regions may currently be less affected, this does not imply they're immune to climate change impacts. Trends should be monitored in these areas to ensure they remain prepared for future changes.
 
 ### How to Run the Queries
 1. Download the dataset from [Kaggle](https://kaggl.com).
